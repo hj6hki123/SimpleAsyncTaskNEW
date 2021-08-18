@@ -14,6 +14,7 @@ public class SimpleAsyncTask extends AsyncTask<URL,Integer,Long> {
     @Override
     protected void onPreExecute() {
         super.onPreExecute();
+        int a=0;
 
     }
     @Override
